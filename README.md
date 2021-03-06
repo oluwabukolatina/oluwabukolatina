@@ -1,6 +1,7 @@
 # 👋 Hi! 👋
 ⚡️ **About Me?** 
 - I am currently building applications mostly with Nodejs and Reactjs.
+
 📫 **Reach me:**
 <p style="text-align: center">
 	<a href="mailto:oluwabukolatina@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Gmail" width="50" height="18"/></a>
@@ -8,7 +9,7 @@
 	<a href="https://twitter.com/tinawhatsgood"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" width="50" height="18"/></a>
 </p>  
 
-👨‍💻 **So I'm:**
+👨‍💻 **I am:**
   - Currently, working on my personal development.
 - Trying to find time to hang out with friends some more.
 - I am learning GoLang.
