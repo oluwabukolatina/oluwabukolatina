@@ -23,9 +23,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oluwabukolatina&langs_count=10&layout=compact&theme=dark&hide_title=true&hide_border=true&line_height=18&text_color=fff&icon_color=fff&bg_color=0,000,000,222,999)
 
 ---
-<a href="https://github.com/ichtrojan">
+<a href="https://github.com/oluwabukola">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=oluwabukolatina&theme=nord&show_icons=true&count_private=true&hide=contribs&line_height=40" />
 </a>
-<a href="https://github.com/ichtrojan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oluwabukolatina&theme=nord&langs_count=4&hide=javascript,html,css,erlang" />
+<a href="https://github.com/oluwabukolatina">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oluwabukolatina&theme=nord&langs_count=4" />
 </a>
