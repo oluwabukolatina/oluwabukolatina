@@ -1,6 +1,10 @@
 # 👋 Hi! 👋
 ⚡️ **About Me?** 
-- I am currently building applications mostly with Nodejs and Reactjs.
+
+### Technology Stacks
+- Language: Node.js, TypeScript, JavaScript
+- DBMS: PostgreSQL, MongoDB
+- Infrastructure: Docker, GCP, AWS
 
 📫 **Reach me:**
 <p style="text-align: center">
@@ -17,3 +21,11 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=oluwabukolatina&show_icons=true&count_private=true&theme=dark&hide_title=true&hide_border=true&line_height=20&text_color=fff&icon_color=fff&bg_color=0,000,000,222,999)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oluwabukolatina&langs_count=10&layout=compact&theme=dark&hide_title=true&hide_border=true&line_height=18&text_color=fff&icon_color=fff&bg_color=0,000,000,222,999)
+
+---
+<a href="https://github.com/ichtrojan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=oluwabukolatina&theme=nord&show_icons=true&count_private=true&hide=contribs&line_height=40" />
+</a>
+<a href="https://github.com/ichtrojan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oluwabukolatina&theme=nord&langs_count=4&hide=javascript,html,css,erlang" />
+</a>
