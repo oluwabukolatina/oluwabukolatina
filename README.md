@@ -29,3 +29,10 @@
 <!-- <a href="https://github.com/oluwabukolatina">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oluwabukolatina&theme=nord&langs_count=4" />
 </a> -->
+
+<a href="https://github.com/ichtrojan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=oluwabukolatina&theme=nord&show_icons=true&count_private=trues&line_height=40" />
+</a>
+<a href="https://github.com/ichtrojan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oluwabukolatina&theme=nord&langs_count=4 />
+</a>
