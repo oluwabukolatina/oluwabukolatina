@@ -3,18 +3,18 @@
 
 ### Technology Stacks
 - Language: Node.js, TypeScript, JavaScript
-- DBMS: PostgreSQL, MongoDB
+- DBMS: PostgreSQL, MongoDB, MySQL
 - Infrastructure: Docker, GCP, AWS
 
 📫 **Reach me:**
 <p style="text-align: center">
 	<a href="mailto:oluwabukolatina@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Gmail" width="50" height="18"/></a>
-	<a href="https://github.com/oluwabukolattina"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" width="50" height="18"/></a>
+	<a href="https://github.com/oluwabukolatina"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" width="50" height="18"/></a>
 	<a href="https://twitter.com/tinawhatsgood"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" width="50" height="18"/></a>
 </p>  
 
 👨‍💻 **I am:**
-- learning GoLang.
+- learning Python.
 
 ---
 ⚡ Something interesting about me: I play American Flag Football
