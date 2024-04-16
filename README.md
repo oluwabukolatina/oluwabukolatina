@@ -20,9 +20,9 @@
 ⚡ Something interesting about me: I play American Flag Football
 
 
-<a href="https://github.com/oluwabukolatina">
+<!-- <a href="https://github.com/oluwabukolatina">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=oluwabukolatina&theme=nord&show_icons=true&count_private=true&line_height=40" />
-</a>
+</a> -->
 <a href="https://github.com/oluwabukolatina">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oluwabukolatina&hide=html,css,php,scss,vue,batchfile,shell&langs_count=4&theme=nord" />
 </a>
